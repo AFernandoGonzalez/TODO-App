@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/alvarogonzalez/Desktop/BootCamp 2021/Assigments/TodoApp/venv/bin/python3" "$0" "$@"
+'''exec' "/Users/alvarogonzalez/Desktop/BootCamp 2021/Assigments/finalProject/TodoApp/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
