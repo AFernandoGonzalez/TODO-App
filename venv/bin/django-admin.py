@@ -1,4 +1,4 @@
-#!/Users/alvarogonzalez/Desktop/BootCamp 2021/Assigments/TodoApp/venv/bin/python3
+#!/Users/alvarogonzalez/Desktop/BootCamp 2021/Assigments/finalProject/TodoApp/venv/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
